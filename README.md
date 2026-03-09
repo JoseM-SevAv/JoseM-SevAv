@@ -26,7 +26,7 @@
 -  <img src="https://github.com/JoseM-SevAv/JoseM-SevAv/blob/main/img/programacion.png" height = "15 px"/> Programación: Iniciación en lenguajes informáticos como R o Linux, así como aprendizaje del control de versiones Github.
 
 ### Contacto (enlace en la imagen):
--  <img src="https://github.com/JoseM-SevAv/JoseM-SevAv/blob/main/img/linkedin.png" height = "15 px"/> <a href="https://www.linkedin.com/in/josemariasevillaavenda%C3%B1o/">LinkedIn: José María Sevilla Avendaño</a><br/>
+-  <img src="https://github.com/JoseM-SevAv/JoseM-SevAv/blob/main/img/linkedin.png" height = "15 px"/> LinkedIn: <a href="https://www.linkedin.com/in/josemariasevillaavenda%C3%B1o/"> José María Sevilla Avendaño</a><br/>
 -  <img src="https://github.com/JoseM-SevAv/JoseM-SevAv/blob/main/img/gmail.avif" height = "15 px"/> E-mail: chema.lezuza@gmail.com
 
 
