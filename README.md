@@ -6,8 +6,7 @@
 
 ### Sobre mí:
 
-- 📗 Estudiante del máster de bioinformática en la Universidad Internacional de la Rioja (UNIR), actualmente terminando.
-- 🌱 Soy biólogo con máster en investigación en biología fundamental y biomedicina. 
+- 🌱 Soy biólogo con máster en investigación en biología fundamental y biomedicina, y máster en bioinformática recien terminado. 
 - 🏁 En búsqueda de nuevas metas.
 - 👨🏻‍💻 En formación continua.
 
